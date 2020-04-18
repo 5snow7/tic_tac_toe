@@ -6,7 +6,7 @@ void setup(){
  img=loadImage("classpic.jpg");
  img2=loadImage("border.jpg");
  board();
- 
+ //comment
 }
 
 void draw(){
